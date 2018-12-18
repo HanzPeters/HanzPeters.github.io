@@ -3,9 +3,10 @@
 Pedro C. de Albuquerque
 
 # Contatos
-
+- 4002
+- 8922
 ## Jogos
-
+**os** _loco_
 ### Artes
 
 ### Markdown
