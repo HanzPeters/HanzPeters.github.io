@@ -20,6 +20,9 @@ Pedro C. de Albuquerque
 
 4. Imagem que também é um link
 [![imagem1](icon-256.png)](https://www.estimacao.com.br/wp-content/uploads/2013/03/chinchila-1.jpg)
+
+5. Imagem que também é um link e a bre em outra janela
+<a href="https://www.estimacao.com.br/wp-content/uploads/2013/03/chinchila-1.jpg" target="_blank">![imagem1](icon-256.png)</a>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
