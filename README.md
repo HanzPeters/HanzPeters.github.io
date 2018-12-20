@@ -9,6 +9,11 @@ Pedro C. de Albuquerque
 **os** _loco_
 ### Artes
 
+1. Apenas link
+[CHILA](https://www.estimacao.com.br/wp-content/uploads/2013/03/chinchila-1.jpg)
+
+2. Transformar link em imagem
+![CHILA](https://www.estimacao.com.br/wp-content/uploads/2013/03/chinchila-1.jpg)!
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
