@@ -16,8 +16,10 @@ Pedro C. de Albuquerque
 ![CHILA](https://www.estimacao.com.br/wp-content/uploads/2013/03/chinchila-1.jpg)
 
 3. Apenas imagem
-
 ![imagem1](icon-256.png)
+
+4. Imagem que também é um link
+[![imagem1](icon-256.png)](https://www.estimacao.com.br/wp-content/uploads/2013/03/chinchila-1.jpg)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
