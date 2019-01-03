@@ -1,10 +1,9 @@
-## Meu Portifolio
+## Quem sou eu?
 
-Pedro C. de Albuquerque
+Apenas um jovem apaixonado por games procurando fazer algo de útil.
 
 # Contatos
-- 4002
-- 8922
+
 ## Jogos
 **os** _loco_
 ### Artes
