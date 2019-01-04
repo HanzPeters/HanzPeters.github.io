@@ -3,54 +3,19 @@
 
 Apenas um jovem apaixonado por games procurando fazer algo de útil.
 
-# Contatos
+[![imagem1](faceper.png)](https://www.facebook.com/pedro.corsodealbuquerque)
+
+[![imagem1](twiterper.png)](https://twitter.com/Jovemgamedesign)
 
 ## Jogos
-**os** _loco_
+[![imagem1](midperf.png)](https://Scarlleon.github.io/MidnightDespair/)
+
+[![imagem1](inicial.png)](https://raixasantos.github.io/ForU/)
+
+[![imagem1](panetelperf.png)](https://hanzpeters.github.io/Paneboom/)
+
+[![imagem1](JOGO4.png)]("https://tawanferreira10.github.io/Geo/)
 ### Artes
 
-1. Apenas link
-[CHILA](https://www.estimacao.com.br/wp-content/uploads/2013/03/chinchila-1.jpg)
+![imagem1](PERSOperf.png)
 
-2. Transformar link em imagem
-![CHILA](https://www.estimacao.com.br/wp-content/uploads/2013/03/chinchila-1.jpg)
-
-3. Apenas imagem
-![imagem1](icon-256.png)
-
-4. Imagem que também é um link
-[![imagem1](icon-256.png)](https://www.estimacao.com.br/wp-content/uploads/2013/03/chinchila-1.jpg)
-
-5. Imagem que também é um link e a bre em outra janela
-<a href="https://www.estimacao.com.br/wp-content/uploads/2013/03/chinchila-1.jpg" target="_blank">![imagem1](icon-256.png)</a>
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HanzPeters/HanzPeters.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
