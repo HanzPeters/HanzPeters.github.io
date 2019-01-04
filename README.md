@@ -1,4 +1,5 @@
 ## Quem sou eu?
+![imagem](perfil2.0.png)
 
 Apenas um jovem apaixonado por games procurando fazer algo de útil.
 
